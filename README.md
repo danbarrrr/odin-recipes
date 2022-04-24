@@ -1,3 +1,7 @@
 # website for odin project
 
-learning
+## learning
+
+HTML✔️
+CSS?
+JavaScript?
