@@ -1,5 +1,3 @@
-website for odin project
+# website for odin project
 
-HTML
-
-
+learning
